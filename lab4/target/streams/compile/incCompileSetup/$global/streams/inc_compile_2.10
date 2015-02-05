@@ -1,0 +1,383 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+97 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$3.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$4.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$5.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$6.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$3.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$isValue$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$And$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$B$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$B.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Bop.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Call$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Call.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Div$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Eq$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Expr.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Function$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Function.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Ge$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Gt$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$If$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$If.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Le$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Lt$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Minus$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$N$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$N.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Ne$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Neg$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Not$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Or$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Plus$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Print$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Print.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$S$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$S.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Seq$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TBool$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Times$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TNumber$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TString$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TUndefined$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Typ.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Undefined$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Uop.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Var$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Var.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$3.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$4.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$5.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$compressFold$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$hasFunctionTyp$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$step$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$step$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$step$3.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$3.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$sum$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$treeFromList$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$1.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$2.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Empty$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Node$.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Node.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Tree.class
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4.class
+binary dependencies:
+6 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Program Files (x86)\Java\jre7\lib\rt.jar
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\lib\liblab4.jar
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Program Files (x86)\Java\jre7\lib\rt.jar
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\lib\liblab4.jar
+direct source dependencies:
+1 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+97 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$3
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$4
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$5
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$6
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$freeVars$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$freeVars$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$freeVars$3
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$$anonfun$isValue$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$And$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$B
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$B$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Binary
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Binary$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Bop
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Call
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Call$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$ConstDecl
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$ConstDecl$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Div$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$DynamicTypeError
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$DynamicTypeError$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Eq$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Expr
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Function
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Function$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Ge$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$GetField
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$GetField$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Gt$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$If
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$If$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Le$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Lt$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Minus$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$N
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$N$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Ne$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Neg$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Not$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Obj
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Obj$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Or$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Plus$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Print
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Print$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$S
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$S$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Seq$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StaticTypeError
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StaticTypeError$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StuckError
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$StuckError$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TBool$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TFunction
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TFunction$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TNumber$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TObj
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TObj$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TString$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$TUndefined$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Times$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Typ
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Unary
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Unary$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Undefined$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Uop
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Var
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> jsy.lab4.ast$Var$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$3
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$4
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$5
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$compressFold$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$hasFunctionTyp$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$processFile$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$processFile$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$step$3
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$substitute$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$substitute$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$substitute$3
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$sum$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$treeFromList$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$typeInfer$1
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$$anonfun$typeInfer$2
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$Empty$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$Node
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$Node$
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> Lab4$Tree
+used names:
+0 items
+product stamps:
+97 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$1.class -> lastModified(1415827280741)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$2.class -> lastModified(1415827280741)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$3.class -> lastModified(1415827280757)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$4.class -> lastModified(1415827280757)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$5.class -> lastModified(1415827280757)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$6.class -> lastModified(1415827280772)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$1.class -> lastModified(1415827280772)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$2.class -> lastModified(1415827280772)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$freeVars$3.class -> lastModified(1415827280772)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$$anonfun$isValue$1.class -> lastModified(1415827280788)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$.class -> lastModified(1415827280741)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$And$.class -> lastModified(1415827280788)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$B$.class -> lastModified(1415827280804)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$B.class -> lastModified(1415827280788)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary$.class -> lastModified(1415827280819)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Binary.class -> lastModified(1415827280804)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Bop.class -> lastModified(1415827280819)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Call$.class -> lastModified(1415827280835)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Call.class -> lastModified(1415827280819)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl$.class -> lastModified(1415827280835)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$ConstDecl.class -> lastModified(1415827280835)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Div$.class -> lastModified(1415827280851)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError$.class -> lastModified(1415827280851)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$DynamicTypeError.class -> lastModified(1415827280851)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Eq$.class -> lastModified(1415827280866)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Expr.class -> lastModified(1415827280866)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Function$.class -> lastModified(1415827280866)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Function.class -> lastModified(1415827280882)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Ge$.class -> lastModified(1415827280882)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField$.class -> lastModified(1415827280897)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$GetField.class -> lastModified(1415827280882)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Gt$.class -> lastModified(1415827280913)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$If$.class -> lastModified(1415827280913)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$If.class -> lastModified(1415827280929)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Le$.class -> lastModified(1415827280929)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Lt$.class -> lastModified(1415827280929)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Minus$.class -> lastModified(1415827280944)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$N$.class -> lastModified(1415827280944)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$N.class -> lastModified(1415827280944)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Ne$.class -> lastModified(1415827280960)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Neg$.class -> lastModified(1415827280960)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Not$.class -> lastModified(1415827280960)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj$.class -> lastModified(1415827280976)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Obj.class -> lastModified(1415827280976)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Or$.class -> lastModified(1415827280976)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Plus$.class -> lastModified(1415827280976)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Print$.class -> lastModified(1415827280991)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Print.class -> lastModified(1415827280991)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$S$.class -> lastModified(1415827280991)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$S.class -> lastModified(1415827281007)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Seq$.class -> lastModified(1415827281007)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError$.class -> lastModified(1415827281007)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StaticTypeError.class -> lastModified(1415827281022)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError$.class -> lastModified(1415827281038)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$StuckError.class -> lastModified(1415827281038)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TBool$.class -> lastModified(1415827281038)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction$.class -> lastModified(1415827281054)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TFunction.class -> lastModified(1415827281054)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Times$.class -> lastModified(1415827281085)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TNumber$.class -> lastModified(1415827281054)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj$.class -> lastModified(1415827281069)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TObj.class -> lastModified(1415827281069)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TString$.class -> lastModified(1415827281069)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$TUndefined$.class -> lastModified(1415827281085)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Typ.class -> lastModified(1415827281085)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary$.class -> lastModified(1415827281101)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Unary.class -> lastModified(1415827281085)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Undefined$.class -> lastModified(1415827281101)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Uop.class -> lastModified(1415827281101)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Var$.class -> lastModified(1415827281116)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast$Var.class -> lastModified(1415827281116)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\jsy\lab4\ast.class -> lastModified(1415827280726)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$1.class -> lastModified(1416520486318)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$2.class -> lastModified(1416520486322)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$3.class -> lastModified(1416520486326)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$4.class -> lastModified(1416520486329)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$5.class -> lastModified(1416520486333)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$compressFold$1.class -> lastModified(1416520486335)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$hasFunctionTyp$1.class -> lastModified(1416520486338)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$1.class -> lastModified(1416520486341)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$processFile$2.class -> lastModified(1416520486343)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$step$1.class -> lastModified(1416520486345)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$step$2.class -> lastModified(1416520486348)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$step$3.class -> lastModified(1416520486351)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$1.class -> lastModified(1416520486354)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$2.class -> lastModified(1416520486358)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$substitute$3.class -> lastModified(1416520486361)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$sum$1.class -> lastModified(1416520486363)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$treeFromList$1.class -> lastModified(1416520486367)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$1.class -> lastModified(1416520486371)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$$anonfun$typeInfer$2.class -> lastModified(1416520486376)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$.class -> lastModified(1416520486311)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Empty$.class -> lastModified(1416520486381)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Node$.class -> lastModified(1416520486384)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Node.class -> lastModified(1416520486390)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4$Tree.class -> lastModified(1416520486394)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\target\scala-2.10\classes\Lab4.class -> lastModified(1416520486203)
+source stamps:
+2 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> hash(4b893a43bea91ad29a3bb119e3f5fb58993e8283)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> hash(0548a12884570003643b4796300cf76393800022)
+binary stamps:
+3 items
+C:\Program Files (x86)\Java\jre7\lib\rt.jar -> lastModified(1413558983519)
+C:\Users\Asus\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar -> lastModified(1380275091000)
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\lib\liblab4.jar -> lastModified(1415062677000)
+class names:
+3 items
+C:\Program Files (x86)\Java\jre7\lib\rt.jar -> java.io.Serializable
+C:\Users\Asus\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar -> scala.Equals
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\lib\liblab4.jar -> jsy.util.JsyApplication
+internal apis:
+2 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD8QCGnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAManN5LmxhYjQuYXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBTdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBUc3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAhqc3kubGFiNHNxAH4AZHQAA2pzeXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaXhsZV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABuQzpcVXNlcnNcQXN1c1xEZXNrdG9wXHNjYWxhLVNESy0zLjAuMy0yLjEwLXdpbjMyLndpbjMyLng4Nl82NFxlY2xpcHNlXHdvcmtzcGFjZVxsYWI0XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRLiTpDvqka0po7sRnj9ftYmT6Cgw==
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDUaSUYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAETGFiNHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAABwc3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBTdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AP3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AR1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARnQABUFycmF5cQB+AEx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARnQABlN0cmluZ3NxAH4ASnNxAH4ATXVxAH4AUAAAAANzcQB+AFJ0AARqYXZhc3EAfgBSdAAEbGFuZ3EAfgBXcHNxAH4ALgF1cQB+AGsAAAADc3EAfgBGdAAOSnN5QXBwbGljYXRpb25zcQB+AEpzcQB+AE11cQB+AFAAAAADc3EAfgBSdAADanN5c3EAfgBSdAAEdXRpbHEAfgBXc3EAfgBGdAAGT2JqZWN0cQB+AG9zcQB+AEZ0AANBbnlxAH4ATHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUnPMzlxdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUBUihKIRXAANkO0eWMAz3Y5OAACI=
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\jsy\lab4\ast.scala -> 
+AAAAAAAAAAA=
+C:\Users\Asus\Desktop\scala-SDK-3.0.3-2.10-win32.win32.x86_64\eclipse\workspace\lab4\src\main\scala\Lab4.scala -> 
+AAAAAwAAAQAAAJgAPCAgICAgIGNhc2UgQmluYXJ5KFBsdXMsIGUxLCBlMikgPT4gKHR5cChlMSksIHR5cChlMikpIG1hdGNoewEAABN2AQAAACMBACMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFxzcmNcbWFpblxzY2FsYVxMYWI0LnNjYWxhAQBuQzpcVXNlcnNcQXN1c1xEZXNrdG9wXHNjYWxhLVNESy0zLjAuMy0yLjEwLXdpbjMyLndpbjMyLng4Nl82NFxlY2xpcHNlXHdvcmtzcGFjZVxsYWI0XHNyY1xtYWluXHNjYWxhXExhYjQuc2NhbGECEW1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0czogKFRCb29sLCBUQm9vbCksIChUQm9vbCwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRCb29sLCBUT2JqKF8pKSwgKFRCb29sLCBUVW5kZWZpbmVkKSwgKFRCb29sLCBUeXAoKSksIChURnVuY3Rpb24oXywgXyksIFRCb29sKSwgKFRGdW5jdGlvbihfLCBfKSwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRGdW5jdGlvbihfLCBfKSwgVE9iaihfKSksIChURnVuY3Rpb24oXywgXyksIFRVbmRlZmluZWQpLCAoVE9iaihfKSwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRPYmooXyksIFRPYmooXykpLCAoVE9iaihfKSwgVFVuZGVmaW5lZCksIChUT2JqKF8pLCBUeXAoKSksIChUVW5kZWZpbmVkLCBUQm9vbCksIChUVW5kZWZpbmVkLCBURnVuY3Rpb24oXywgXykpLCAoVFVuZGVmaW5lZCwgVE9iaihfKSksIChUVW5kZWZpbmVkLCBUVW5kZWZpbmVkKSwgKFR5cCgpLCBUQm9vbCksIChUeXAoKSwgVE9iaihfKSksIChUeXAoKSwgVFVuZGVmaW5lZCkBAAABAAAAngBIICAgICAgY2FzZSBCaW5hcnkoTWludXN8VGltZXN8RGl2LCBlMSwgZTIpID0+ICAodHlwKGUxKSwgdHlwKGUyKSkgbWF0Y2h7AQAAFI4BAAAALwEALyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBuQzpcVXNlcnNcQXN1c1xEZXNrdG9wXHNjYWxhLVNESy0zLjAuMy0yLjEwLXdpbjMyLndpbjMyLng4Nl82NFxlY2xpcHNlXHdvcmtzcGFjZVxsYWI0XHNyY1xtYWluXHNjYWxhXExhYjQuc2NhbGEBAG5DOlxVc2Vyc1xBc3VzXERlc2t0b3Bcc2NhbGEtU0RLLTMuMC4zLTIuMTAtd2luMzIud2luMzIueDg2XzY0XGVjbGlwc2Vcd29ya3NwYWNlXGxhYjRcc3JjXG1haW5cc2NhbGFcTGFiNC5zY2FsYQLFbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXRzOiAoVEJvb2wsIFRCb29sKSwgKFRCb29sLCBURnVuY3Rpb24oXywgXykpLCAoVEJvb2wsIFRPYmooXykpLCAoVEJvb2wsIFRTdHJpbmcpLCAoVEJvb2wsIFRVbmRlZmluZWQpLCAoVEZ1bmN0aW9uKF8sIF8pLCBUQm9vbCksIChURnVuY3Rpb24oXywgXyksIFRGdW5jdGlvbihfLCBfKSksIChURnVuY3Rpb24oXywgXyksIFRPYmooXykpLCAoVEZ1bmN0aW9uKF8sIF8pLCBUU3RyaW5nKSwgKFRGdW5jdGlvbihfLCBfKSwgVFVuZGVmaW5lZCksIChUT2JqKF8pLCBURnVuY3Rpb24oXywgXykpLCAoVE9iaihfKSwgVE9iaihfKSksIChUT2JqKF8pLCBUU3RyaW5nKSwgKFRPYmooXyksIFR5cCgpKSwgKFRTdHJpbmcsIFRGdW5jdGlvbihfLCBfKSksIChUU3RyaW5nLCBUT2JqKF8pKSwgKFRTdHJpbmcsIFRTdHJpbmcpLCAoVFN0cmluZywgVHlwKCkpLCAoVFVuZGVmaW5lZCwgVEJvb2wpLCAoVFVuZGVmaW5lZCwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRVbmRlZmluZWQsIFRPYmooXykpLCAoVFVuZGVmaW5lZCwgVFN0cmluZyksIChUVW5kZWZpbmVkLCBUVW5kZWZpbmVkKSwgKFR5cCgpLCBUQm9vbCksIChUeXAoKSwgVEZ1bmN0aW9uKF8sIF8pKSwgKFR5cCgpLCBUT2JqKF8pKSwgKFR5cCgpLCBUU3RyaW5nKSwgKFR5cCgpLCBUVW5kZWZpbmVkKQEAAAEAAACvAEMgICAgICBjYXNlIEJpbmFyeShMdHxMZXxHdHxHZSwgZTEsIGUyKSA9PiAodHlwKGUxKSwgdHlwKGUyKSkgbWF0Y2h7AQAAFu0BAAAAKgEAKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFxzcmNcbWFpblxzY2FsYVxMYWI0LnNjYWxhAQBuQzpcVXNlcnNcQXN1c1xEZXNrdG9wXHNjYWxhLVNESy0zLjAuMy0yLjEwLXdpbjMyLndpbjMyLng4Nl82NFxlY2xpcHNlXHdvcmtzcGFjZVxsYWI0XHNyY1xtYWluXHNjYWxhXExhYjQuc2NhbGEB/21hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0czogKFRCb29sLCBUQm9vbCksIChUQm9vbCwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRCb29sLCBUT2JqKF8pKSwgKFRCb29sLCBUVW5kZWZpbmVkKSwgKFRCb29sLCBUeXAoKSksIChURnVuY3Rpb24oXywgXyksIFRCb29sKSwgKFRGdW5jdGlvbihfLCBfKSwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRGdW5jdGlvbihfLCBfKSwgVE9iaihfKSksIChURnVuY3Rpb24oXywgXyksIFRVbmRlZmluZWQpLCAoVEZ1bmN0aW9uKF8sIF8pLCBUeXAoKSksIChUT2JqKF8pLCBUQm9vbCksIChUT2JqKF8pLCBUT2JqKF8pKSwgKFRPYmooXyksIFRVbmRlZmluZWQpLCAoVE9iaihfKSwgVHlwKCkpLCAoVFVuZGVmaW5lZCwgVEJvb2wpLCAoVFVuZGVmaW5lZCwgVEZ1bmN0aW9uKF8sIF8pKSwgKFRVbmRlZmluZWQsIFRPYmooXykpLCAoVFVuZGVmaW5lZCwgVFVuZGVmaW5lZCksIChUVW5kZWZpbmVkLCBUeXAoKSkBAAAAAA==
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaXhsZV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSawh1Ud1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaxFKS51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaxGkRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSaxH+nB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABScswgGp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSc8b8UR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSc8jWBR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSc8zOXF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbkM6XFVzZXJzXEFzdXNcRGVza3RvcFxzY2FsYS1TREstMy4wLjMtMi4xMC13aW4zMi53aW4zMi54ODZfNjRcZWNsaXBzZVx3b3Jrc3BhY2VcbGFiNFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==

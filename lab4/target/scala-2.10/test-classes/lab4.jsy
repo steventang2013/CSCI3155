@@ -1,0 +1,16 @@
+const x = 6;
+const r = (function(x) { return 2; })(3) + x;
+jsy.print(r);
+
+const x = 4;
+const g = function(y) { return x; };
+const h = function(x) { return g(2); };
+jsy.print(h(3));
+
+const x = 12;
+const plus = function(x) { return function(y) { return x + y; } };
+jsy.print(plus(3)(4));
+
+const w = function w(y) { return y === 0 ? 1 : y + w(y - 1) }
+const a = w(5)
+jsy.print("a: " + a)
